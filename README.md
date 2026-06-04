@@ -46,7 +46,6 @@ java RollerCoaster.Main
 📊 Sample Console Output
 When you run the simulation, you will observe threads interleaving safely as guests line up, board trains dynamically, and successfully secure their harnesses:
 
-Plaintext
 Welcome to the Roller Coaster!
 Guest On boarded on train 0
 Guest On boarded on train 1
